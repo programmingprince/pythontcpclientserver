@@ -6,6 +6,7 @@ SERVER_IP="127.0.0.1"
 PORT=2343
 BUFFER_SIZE=1024
 
+#creating a socket object
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 server_address=(SERVER_IP,PORT)
 s.bind(server_address)
