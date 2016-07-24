@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ac4e6f6-4c0e-4fb8-9b80-02806d183165" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tcpClient.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tcpServer.py" afterPath="" />
-    </list>
+    <list default="true" id="3ac4e6f6-4c0e-4fb8-9b80-02806d183165" name="Default" comment="" />
     <ignored path="TcpClientServer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
