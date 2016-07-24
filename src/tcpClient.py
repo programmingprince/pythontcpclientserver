@@ -4,7 +4,7 @@ import socket
 
 SERVER_IP = "127.0.0.1"
 PORT = 2343
-BUFFER_SIZE = 2048
+BUFFER_SIZE = 1024
 
 # creating socket object for client
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
